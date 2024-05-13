@@ -1,0 +1,10 @@
+#food = input("Food : ")
+#eat = "Yes" if food == "Cake" else "No"
+#print(eat)
+
+# Other way to write the above code
+
+food = input("Food : ")
+print("Sweet") if food == "Cake" or food == "Chocolate" else print("Hot")
+
+
