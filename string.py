@@ -6,3 +6,5 @@ print(str1)
 a = "Hello"
 b = "World"
 print(a + " "+ b)
+
+print(str1.endswith("tant"))
