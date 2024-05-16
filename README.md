@@ -63,5 +63,8 @@ Accessing parts of a string
    tup = (87,65,33,95,76)
    tup[0] = 75 # It is not allowed in Python
   - tup.index(ele) # returns index at first occurance tup.index(1) is 1
-  - tup.count(el) # counts total occurances tup.count(1) is 2.   
+  - tup.count(el) # counts total occurances tup.count(1) is 2.
+
+## Function is Python
+
   
