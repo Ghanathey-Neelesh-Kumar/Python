@@ -66,5 +66,7 @@ Accessing parts of a string
   - tup.count(el) # counts total occurances tup.count(1) is 2.
 
 ## Function is Python
+- Functions are block of code that execute a specific task.
+- 
 
   
